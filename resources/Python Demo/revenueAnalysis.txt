@@ -1,0 +1,8 @@
+
+Revenue Data Analysis 
+----------------------------
+	Total Months = 40 
+	Total Revenue = $19,478.00 
+	Average Change Per Month = $-10.59 
+	Greatest Increase = Feb-22 Amount $1,925.00 
+	Greatest Decrease = Jan-22 Amount $-1,733.00 
